@@ -144,6 +144,23 @@
           "icon": "/images/tailwind-css-remove-bg.png"
         }
       ]
+    },
+    {
+      "name": "TalabNow",
+      "link": "https://talab-now.vercel.app/",
+      "image": "images/talabNow.PNG",
+      "description": "",
+      "category": "FreamWork",
+      "technologies": [ 
+        {
+          "name": "React",
+          "icon": "fa-brands fa-react react-icon"
+        },
+        {
+          "name": "tailwind",
+          "icon": "/images/tailwind-css-remove-bg.png"
+        }
+      ]
     }
   ]
 }
