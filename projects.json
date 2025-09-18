@@ -87,7 +87,7 @@
       "technologies": [
         { "id": 1, "name": "React" },
         { "id": 2, "name": "tailwind" },
-        { "id": 2, "name": "Context API" }
+        { "id": 3, "name": "Context API" }
       ]
     },
     {
@@ -100,8 +100,8 @@
       "technologies": [
         { "id": 1, "name": "React" },
         { "id": 2, "name": "tailwind" },
-        { "id": 2, "name": "Context API" },
-        { "id": 2, "name": "Motion Farmer" }
+        { "id": 3, "name": "Context API" },
+        { "id": 4, "name": "Motion Farmer" }
       ]
     },
     {
@@ -114,8 +114,8 @@
       "technologies": [
         { "id": 1, "name": "React" },
         { "id": 2, "name": "tailwind" },
-        { "id": 2, "name": "Context API" },
-        { "id": 2, "name": "Motion Farmer" }
+        { "id": 3, "name": "Context API" },
+        { "id": 4, "name": "Motion Farmer" }
       ]
     }
   ]
