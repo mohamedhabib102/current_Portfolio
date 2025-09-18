@@ -1,165 +1,121 @@
 {
   "projects": [
     {
+      "id": 1,
       "name": "Game X O",
       "link": "https://mohamedhabib102.github.io/GameXO/",
       "image": "/images/item-5.PNG",
-      "description": "",
+      "description": "The classic X O game developed using pure JavaScript. It features an interactive interface where players can play against each other on a grid.",
       "category": "Pure JavaScript",
       "technologies": [
-        {
-          "name": "HTML",
-          "icon": "fa-brands fa-html5 html-icon"
-        },
-        {
-          "name": "CSS",
-          "icon": "fa-brands fa-css3 css-icon"
-        },
-        {
-          "name": "JavaScript",
-          "icon": "fa-brands fa-js js-icon"
-        }
+        { "id": 1, "name": "HTML" },
+        { "id": 2, "name": "CSS" },
+        { "id": 3, "name": "JavaScript" }
       ]
     },
     {
+      "id": 2,
       "name": "Dashboard App",
       "link": "https://mohamedhabib102.github.io/potfolio/",
       "image": "/images/item-6.PNG",
       "category": "Pure JavaScript",
-      "description": "",
+      "description": "A dashboard application that displays data and provides interactive interfaces using JavaScript. The app allows easy information management and provides a modern design for presentation.",
       "technologies": [
-        {
-          "name": "HTML",
-          "icon": "fa-brands fa-html5 html-icon"
-        },
-        {
-          "name": "CSS",
-          "icon": "fa-brands fa-css3 css-icon"
-        },
-        {
-          "name": "JavaScript",
-          "icon": "fa-brands fa-js js-icon"
-        }
+        { "id": 1, "name": "HTML" },
+        { "id": 2, "name": "CSS" },
+        { "id": 3, "name": "JavaScript" }
       ]
     },
-        {
+    {
+      "id": 3,
       "name": "Graduation Project - E-commerce",
       "link": "https://project-college-mu.vercel.app/",
       "image": "/images/project-college.PNG",
       "category": "Pure JavaScript",
+      "description": "Graduation project for an e-commerce store with all modern store features such as chat between users and admin, cart, favorites, and responsive design built using JavaScript and Bootstrap.",
       "technologies": [
-        {
-          "name": "HTML",
-          "icon": "fa-brands fa-html5 html-icon"
-        },
-        {
-          "name": "CSS",
-          "icon": "fa-brands fa-css3 css-icon"
-        },
-        {
-          "name": "JavaScript",
-          "icon": "fa-brands fa-js js-icon"
-        },
-        {
-          "name": "Bootstrap",
-          "icon": "fa-brands fa-bootstrap boot-icon"
-        }
+        { "id": 1, "name": "HTML" },
+        { "id": 2, "name": "CSS" },
+        { "id": 3, "name": "JavaScript" },
+        { "id": 4, "name": "Bootstrap" }
       ]
     },
-            {
+    {
+      "id": 4,
       "name": "SATS App",
       "link": "https://sats-blush.vercel.app/",
       "image": "/images/sats.PNG",
       "category": "Pure JavaScript",
+      "description": "A website for attendance registration that displays the day the attendance was recorded in the calendar. The app allows users to track their attendance history in a simple and efficient way.",
       "technologies": [
-        {
-          "name": "HTML",
-          "icon": "fa-brands fa-html5 html-icon"
-        },
-        {
-          "name": "CSS",
-          "icon": "fa-brands fa-css3 css-icon"
-        },
-        {
-          "name": "JavaScript",
-          "icon": "fa-brands fa-js js-icon"
-        }
+        { "id": 1, "name": "HTML" },
+        { "id": 2, "name": "CSS" },
+        { "id": 3, "name": "JavaScript" }
       ]
     },
     {
-      "name": "Online Store App",
-      "link": "https://online-store-app-lovat.vercel.app/",
-      "image": "/images/item-7.PNG",
-      "category": "FreamWork",
-      "description": "",
-      "technologies": [
-        {
-          "name": "JavaScript",
-          "icon": "fa-brands fa-js js-icon"
-        },
-        {
-          "name": "React",
-          "icon": "fa-brands fa-react react-icon"
-        },
-        {
-          "name": "CSS",
-          "icon": "fa-brands fa-css3 css-icon"
-        },
-        {
-          "name": "Bootstrap",
-          "icon": "fa-brands fa-bootstrap boot-icon"
-        }
-      ]
-    },
-    {
+      "id": 5,
       "name": "To Do List App",
       "link": "https://mhabib-to-do-list-app.netlify.app/",
       "image": "/images/item-10.PNG",
       "category": "FreamWork",
-      "description": "",
+      "description": "A simple to-do list app that allows the user to add or remove tasks and track whether each task is completed or not.",
       "technologies": [
-        {
-          "name": "React",
-          "icon": "fa-brands fa-react react-icon"
-        },
-        {
-          "name": "tailwind",
-          "icon": "/images/tailwind-css-remove-bg.png"
-        }
+        { "id": 1, "name": "React" },
+        { "id": 2, "name": "tailwind" }
       ]
     },
     {
+      "id": 6,
       "name": "Tasks Pro",
       "link": "https://tasks-pro-five.vercel.app/",
       "image": "images/Tasks-Pro.PNG",
-      "description": "",
+      "description": "A task management app with additional features like showing completed tasks, favorites, and other properties being developed to improve task management.",
       "category": "FreamWork",
-      "technologies": [ 
-        {
-          "name": "Nextjs",
-          "icon": "/images/nextjs-icon.png"
-        },
-        {
-          "name": "tailwind",
-          "icon": "/images/tailwind-css-remove-bg.png"
-        }
+      "technologies": [
+        { "id": 1, "name": "Nextjs" },
+        { "id": 2, "name": "tailwind" }
       ]
     },
     {
+      "id": 7,
       "name": "TalabNow",
       "link": "https://talab-now.vercel.app/",
       "image": "images/talabNow.PNG",
-      "description": "",
+      "description": "A laundry app where users can place laundry orders, check prices, and the admin approves or rejects the orders.",
       "category": "FreamWork",
-      "technologies": [ 
-        {
-          "name": "React",
-          "icon": "fa-brands fa-react react-icon"
-        },
-        {
-          "name": "tailwind",
-          "icon": "/images/tailwind-css-remove-bg.png"
-        }
+      "technologies": [
+        { "id": 1, "name": "React" },
+        { "id": 2, "name": "tailwind" },
+        { "id": 2, "name": "Context API" }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "TeamZone",
+      "link": "https://team-zone-psi.vercel.app/",
+      "image": "images/teamZone.PNG",
+      "description": "A court booking site where players need wallet credit to request money via Vodafone Cash, and admin approval is required. Once approved, they can book the court. In the My Bookings page, the reserved court appears. Players can rate others after the match. The entire team books the same court and rates each other, with the highest ratings shown on the Ratings page",
+      "category": "FreamWork",
+      "technologies": [
+        { "id": 1, "name": "React" },
+        { "id": 2, "name": "tailwind" },
+        { "id": 2, "name": "Context API" },
+        { "id": 2, "name": "Motion Farmer" }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "GymHub",
+      "link": "https://gym-hub-kohl.vercel.app/",
+      "image": "images/gymHum.PNG",
+      "description": "A gymHub website where users register and log in to their profile page. From there, they can check if they are subscribed or not, view the start and end dates of their subscription, and see their personal ID. For the admin, they can check if a user is subscribed by entering their ID. The admin can also add a new subscription for the user",
+      "category": "FreamWork",
+      "technologies": [
+        { "id": 1, "name": "React" },
+        { "id": 2, "name": "tailwind" },
+        { "id": 2, "name": "Context API" },
+        { "id": 2, "name": "Motion Farmer" }
       ]
     }
   ]
