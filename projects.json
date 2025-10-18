@@ -107,7 +107,7 @@
     {
       "id": 9,
       "name": "TOP_SPORT_GYM",
-      "link": "https://gym-hub-kohl.vercel.app/",
+      "link": "https://top-sport-gym.vercel.app/",
       "image": "images/gymHum.PNG",
       "description": "A TOP_SPORT_GYM website where users register and log in to their profile page. From there, they can check if they are subscribed or not, view the start and end dates of their subscription, and see their personal ID. For the admin, they can check if a user is subscribed by entering their ID. The admin can also add a new subscription for the user",
       "category": "FreamWork",
