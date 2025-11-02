@@ -1,20 +1,5 @@
 {
   "projects": [
-      {
-      "id": 7,
-      "name": "Al-Huda Al-Nabawi",
-      "link": "https://alhadi-app.vercel.app/",
-      "image": "images/Al-Huda-Al-Nabawi.png",
-      "description": " Al-Huda Al-Nabawi is a digital charity platform promoting Islamic and Prophetic values. It includes an About section, a charity store, and an Admin Dashboard for managing content and donations. The login system uses email verification instead of registration, with secure token storage for two hours via Context API. Through this project, I gained solid experience in file organization, state management, and professional TypeScript usage. Built with Next.js, TypeScript, and Tailwind CSS. ",
-      "category": "FreamWork",
-      "technologies": [
-        { "id": 1, "name": "Nextjs" },
-        { "id": 2, "name": "Typescript" },
-        { "id": 4, "name": "tailwind" },
-        { "id": 5, "name": "Context API" },
-        { "id": 6, "name": "Motion Farmer" }
-      ]
-    },
     {
       "id": 9,
       "name": "TOP_SPORT_GYM",
