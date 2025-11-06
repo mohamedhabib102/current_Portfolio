@@ -1,7 +1,22 @@
 {
   "projects": [
     {
-      "id": 9,
+      "id": 1,
+      "name": "Al-Huda Al-Nabawi",
+      "link": "https://alhadi-app.vercel.app/",
+      "image": "images/Al-Huda-Al-Nabawi.png",
+      "description": " Al-Huda Al-Nabawi is a digital charity platform promoting Islamic and Prophetic values. It includes an About section, a charity store, and an Admin Dashboard for managing content and donations. The login system uses email verification instead of registration, with secure token storage for two hours via Context API. Through this project, I gained solid experience in file organization, state management, and professional TypeScript usage. Built with Next.js, TypeScript, and Tailwind CSS. ",
+      "category": "FreamWork",
+      "technologies": [
+        { "id": 1, "name": "Nextjs" },
+        { "id": 2, "name": "Typescript" },
+        { "id": 4, "name": "tailwind" },
+        { "id": 5, "name": "Context API" },
+        { "id": 6, "name": "Motion Farmer" }
+      ]
+    },
+    {
+      "id": 2,
       "name": "TOP_SPORT_GYM",
       "link": "https://top-sport-gym.vercel.app/",
       "image": "images/gymHum.PNG",
@@ -15,7 +30,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 3,
       "name": "TeamZone",
       "link": "https://team-zone-psi.vercel.app/",
       "image": "images/teamZone.PNG",
@@ -29,7 +44,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 4,
       "name": "TalabNow",
       "link": "https://talab-now.vercel.app/",
       "image": "images/talabNow.PNG",
@@ -42,7 +57,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Tasks Pro",
       "link": "https://tasks-pro-five.vercel.app/",
       "image": "images/Tasks-Pro.PNG",
@@ -54,33 +69,7 @@
       ]
     },
     {
-      "id": 1,
-      "name": "Game X O",
-      "link": "https://mohamedhabib102.github.io/GameXO/",
-      "image": "/images/item-5.PNG",
-      "description": "The classic X O game developed using pure JavaScript. It features an interactive interface where players can play against each other on a grid.",
-      "category": "Pure JavaScript",
-      "technologies": [
-        { "id": 1, "name": "HTML" },
-        { "id": 2, "name": "CSS" },
-        { "id": 3, "name": "JavaScript" }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Dashboard App",
-      "link": "https://mohamedhabib102.github.io/potfolio/",
-      "image": "/images/item-6.PNG",
-      "category": "Pure JavaScript",
-      "description": "A dashboard application that displays data and provides interactive interfaces using JavaScript. The app allows easy information management and provides a modern design for presentation.",
-      "technologies": [
-        { "id": 1, "name": "HTML" },
-        { "id": 2, "name": "CSS" },
-        { "id": 3, "name": "JavaScript" }
-      ]
-    },
-    {
-      "id": 3,
+      "id": 8,
       "name": "Graduation Project - E-commerce",
       "link": "https://project-college-mu.vercel.app/",
       "image": "/images/project-college.PNG",
@@ -94,7 +83,33 @@
       ]
     },
     {
-      "id": 4,
+      "id": 6,
+      "name": "Game X O",
+      "link": "https://mohamedhabib102.github.io/GameXO/",
+      "image": "/images/item-5.PNG",
+      "description": "The classic X O game developed using pure JavaScript. It features an interactive interface where players can play against each other on a grid.",
+      "category": "Pure JavaScript",
+      "technologies": [
+        { "id": 1, "name": "HTML" },
+        { "id": 2, "name": "CSS" },
+        { "id": 3, "name": "JavaScript" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Dashboard App",
+      "link": "https://mohamedhabib102.github.io/potfolio/",
+      "image": "/images/item-6.PNG",
+      "category": "Pure JavaScript",
+      "description": "A dashboard application that displays data and provides interactive interfaces using JavaScript. The app allows easy information management and provides a modern design for presentation.",
+      "technologies": [
+        { "id": 1, "name": "HTML" },
+        { "id": 2, "name": "CSS" },
+        { "id": 3, "name": "JavaScript" }
+      ]
+    },
+    {
+      "id": 9,
       "name": "SATS App",
       "link": "https://sats-blush.vercel.app/",
       "image": "/images/sats.PNG",
@@ -104,18 +119,6 @@
         { "id": 1, "name": "HTML" },
         { "id": 2, "name": "CSS" },
         { "id": 3, "name": "JavaScript" }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "To Do List App",
-      "link": "https://mhabib-to-do-list-app.netlify.app/",
-      "image": "/images/item-10.PNG",
-      "category": "FreamWork",
-      "description": "A simple to-do list app that allows the user to add or remove tasks and track whether each task is completed or not.",
-      "technologies": [
-        { "id": 1, "name": "React" },
-        { "id": 2, "name": "tailwind" }
       ]
     }
   ]
