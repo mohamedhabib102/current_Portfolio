@@ -34,21 +34,5 @@
             60,
             65
         ]
-    },
-    "projects": {
-        "iconProjectHtmlCss": ["fa-brands fa-html5 html-icon", "fa-brands fa-css3 css-icon"],
-        "iconProjectHtmlCssBoot": ["fa-brands fa-bootstrap boot-icon"],
-        "iconProjectPure": ["fa-brands fa-html5 html-icon", "fa-brands fa-css3 css-icon", "fa-brands fa-js js-icon"],
-        "iconProjectFrameWork": ["fa-brands fa-react react-icon", "fa-brands fa-js js-icon" ,"fa-brands fa-css3 css-icon", "fa-brands fa-bootstrap boot-icon"],
-        "projectLinksHtmlCss": [""],
-        "projectLinksPure": [""],
-        "projectLinksFrameWork": [""],
-        "projectLinksFrameWorkNams": ["You Can See", "You Can See", "Loading"],
-        "htmlcssBootName": ["SEO App", "Chain App", "Bondi App"],
-        "htmlcssBootPhoto": ["../src/assets/images/item-1.PNG", "../src/assets/images/item-2.PNG", "../src/assets/images/item-3.PNG"],
-        "pureJsName": ["Special Design App", "Game X O", "Dashboard App"],
-        "pureJsPhoto": ["../src/assets/images/item-4.PNG", "../src/assets/images/item-5.PNG", "../src/assets/images/item-6.PNG"],
-        "frameWorkName": ["Online Store App", "Portfolio App", "Coming soon"],
-        "frameWorkPhoto": ["../src/assets/images/item-7.PNG", "../src/assets/images/item-8.PNG", "../src/assets/images/item-9.png"]
     }
 }
