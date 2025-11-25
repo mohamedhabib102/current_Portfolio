@@ -2,12 +2,12 @@
     "profile":{
         "fullName": "Mohamed Habib",
         "date": "Novamber, 20, 2002",
-        "aboutMe": "I am Mohammad Habib, a passionate Front-End Developer with over two years of continuous learning in programming. I started with a foundation course in programming, then moved into web development, where I gained solid experience in building interactive and responsive websites. I have strong skills in React.js, Next.js, TypeScript, Tailwind CSS, Bootstrap, and other modern front-end tools, along with a good understanding of UI/UX principles. I am always eager to enhance my skills and work on real-world projects to deliver high-quality user experiences.",
+        "aboutMe": "I’m Mohammad Habib, a Front-End Developer with over two years of experience using React, Next.js, and TypeScript, Tailwind CSS with a good understanding of UI/UX.",
         "job": "Front End Developer",
         "website": "mhabib.com",
         "email": "byaalkhy43@gmail.com",
-        "profilText": "My name is Mohamed Habib, a 22-year-old Front-End Developer with exI am Mohamed Habib, a 22-year-old Front-End Developer skilled in HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap, and TypeScript. I have experience building responsive, interactive websites and a strong focus on delivering high-quality user experiences using modern UI/UX principles.", 
-        "skillsText": "I have strong skills in HTML, CSS, and JavaScript, with a solid understanding of the latest front-end development technologies. I also work with modern frameworks and libraries such as React, Next.js, Tailwind CSS, and Bootstrap to build responsive and interactive web applications. Currently, I am expanding my knowledge by learning additional modern tools and frameworks to enhance my development expertise.",
+        "profilText": "I’m Mohammad Habib, a 23-year-old Front-End Developer experienced with modern web technologies and building high-quality responsive websites.", 
+        "skillsText": "I have strong skills in HTML, CSS, and JavaScript, and I use React, Next.js, TypeScript, and Tailwind to build responsive and interactive websites.",
         "skills": [
             "HTML & HTML5", 
             "CSS & CSS3", 
