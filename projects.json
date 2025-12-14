@@ -2,123 +2,318 @@
   "projects": [
     {
       "id": 1,
-      "name": "Al-Huda Al-Nabawi",
-      "link": "https://alhadi-app.vercel.app/",
-      "image": "images/Al-Huda-Al-Nabawi.png",
-      "description": " Al-Huda Al-Nabawi is a digital charity platform promoting Islamic and Prophetic values. It includes an About section, a charity store, and an Admin Dashboard for managing content and donations. The login system uses email verification instead of registration, with secure token storage for two hours via Context API. Through this project, I gained solid experience in file organization, state management, and professional TypeScript usage. Built with Next.js, TypeScript, and Tailwind CSS. ",
-      "category": "FreamWork",
+      "name": "Noor Al-Huda",
+      "link": "https://nour-alhud.vercel.app/",
+      "image": "images/nour-alhuda.png",
+      "description": "Noor Al-Huda is a religious platform offering the Holy Qur’an, morning/evening duas, and Qur’an audio playback. It includes a Community section for publishing articles and an FAQ section for sharing questions and answers. Built with Next.js, TypeScript, and Tailwind CSS. ",
+      "category": "Frameworks",
       "technologies": [
-        { "id": 1, "name": "Nextjs" },
-        { "id": 2, "name": "Typescript" },
-        { "id": 4, "name": "tailwind" },
-        { "id": 5, "name": "Context API" },
-        { "id": 6, "name": "Motion Farmer" }
+        {
+          "id": 1,
+          "name": "Next.js",
+          "icon": "/images/nextjs-icon.png",
+          "type": "image"
+        },
+        {
+          "id": 2,
+          "name": "TypeScript",
+          "icon": "fa-solid fa-code",
+          "type": "icon"
+        },
+        {
+          "id": 3,
+          "name": "Tailwind",
+          "icon": "/images/tailwind-css-remove-bg.png",
+          "type": "image"
+        },
+        {
+          "id": 4,
+          "name": "Context API",
+          "icon": "fa-solid fa-sitemap",
+          "type": "icon"
+        },
+        {
+          "id": 5,
+          "name": "Framer Motion",
+          "icon": "fa-brands fa-unity",
+          "type": "icon"
+        }
       ]
     },
     {
       "id": 2,
-      "name": "TOP_SPORT_GYM",
-      "link": "https://top-sport-gym.vercel.app/",
-      "image": "images/gymHum.PNG",
-      "description": "A TOP_SPORT_GYM website where users register and log in to their profile page. From there, they can check if they are subscribed or not, view the start and end dates of their subscription, and see their personal ID. For the admin, they can check if a user is subscribed by entering their ID. The admin can also add a new subscription for the user",
-      "category": "FreamWork",
+      "name": "Publish House",
+      "link": "https://dar-al-anqa-app.vercel.app/",
+      "image": "images/publishe-house.png",
+      "description": "Noor Al-Huda is a religious platform offering the Holy Qur’an, morning/evening duas, and Qur’an audio playback. It includes a Community section for publishing articles and an FAQ section for sharing questions and answers. Built with Next.js, TypeScript, and Tailwind CSS. ",
+      "category": "Frameworks",
       "technologies": [
-        { "id": 1, "name": "React" },
-        { "id": 2, "name": "tailwind" },
-        { "id": 3, "name": "Context API" },
-        { "id": 4, "name": "Motion Farmer" }
+        {
+          "id": 1,
+          "name": "Next.js",
+          "icon": "/images/nextjs-icon.png",
+          "type": "image"
+        },
+        {
+          "id": 2,
+          "name": "TypeScript",
+          "icon": "fa-solid fa-code",
+          "type": "icon"
+        },
+        {
+          "id": 3,
+          "name": "Tailwind",
+          "icon": "/images/tailwind-css-remove-bg.png",
+          "type": "image"
+        },
+        {
+          "id": 4,
+          "name": "Context API",
+          "icon": "fa-solid fa-sitemap",
+          "type": "icon"
+        },
+        {
+          "id": 5,
+          "name": "Framer Motion",
+          "icon": "fa-brands fa-unity",
+          "type": "icon"
+        }
       ]
     },
     {
       "id": 3,
-      "name": "TeamZone",
-      "link": "https://team-zone-psi.vercel.app/",
-      "image": "images/teamZone.PNG",
-      "description": "A court booking site where players need wallet credit to request money via Vodafone Cash, and admin approval is required. Once approved, they can book the court. In the My Bookings page, the reserved court appears. Players can rate others after the match. The entire team books the same court and rates each other, with the highest ratings shown on the Ratings page",
-      "category": "FreamWork",
+      "name": "Top Sport Gym",
+      "link": "https://top-sport-gym.vercel.app/",
+      "image": "images/gymHum.PNG",
+      "description": "A TOP_SPORT_GYM website where users register and log in to their profile page. From there, they can check if they are subscribed or not, view the start and end dates of their subscription, and see their personal ID. For the admin, they can check if a user is subscribed by entering their ID. The admin can also add a new subscription for the user",
+      "category": "Frameworks",
       "technologies": [
-        { "id": 1, "name": "React" },
-        { "id": 2, "name": "tailwind" },
-        { "id": 3, "name": "Context API" },
-        { "id": 4, "name": "Motion Farmer" }
+        {
+          "id": 1,
+          "name": "React",
+          "icon": "fa-brands fa-react react-icon",
+          "type": "icon"
+        },
+        {
+          "id": 2,
+          "name": "Tailwind",
+          "icon": "/images/tailwind-css-remove-bg.png",
+          "type": "image"
+        },
+        {
+          "id": 3,
+          "name": "Context API",
+          "icon": "fa-solid fa-sitemap",
+          "type": "icon"
+        },
+        {
+          "id": 4,
+          "name": "Framer Motion",
+          "icon": "fa-brands fa-unity",
+          "type": "icon"
+        }
       ]
     },
     {
       "id": 4,
-      "name": "TalabNow",
-      "link": "https://talab-now.vercel.app/",
-      "image": "images/talabNow.PNG",
-      "description": "A laundry app where users can place laundry orders, check prices, and the admin approves or rejects the orders.",
-      "category": "FreamWork",
+      "name": "TeamZone",
+      "link": "https://team-zone-psi.vercel.app/",
+      "image": "images/teamZone.PNG",
+      "description": "A court booking site where players need wallet credit to request money via Vodafone Cash, and admin approval is required. Once approved, they can book the court. In the My Bookings page, the reserved court appears. Players can rate others after the match. The entire team books the same court and rates each other, with the highest ratings shown on the Ratings page",
+      "category": "Frameworks",
       "technologies": [
-        { "id": 1, "name": "React" },
-        { "id": 2, "name": "tailwind" },
-        { "id": 3, "name": "Context API" }
+        {
+          "id": 1,
+          "name": "React",
+          "icon": "fa-brands fa-react react-icon",
+          "type": "icon"
+        },
+        {
+          "id": 2,
+          "name": "Tailwind",
+          "icon": "/images/tailwind-css-remove-bg.png",
+          "type": "image"
+        },
+        {
+          "id": 3,
+          "name": "Context API",
+          "icon": "fa-solid fa-sitemap",
+          "type": "icon"
+        },
+        {
+          "id": 4,
+          "name": "Framer Motion",
+          "icon": "fa-brands fa-unity",
+          "type": "icon"
+        }
       ]
     },
     {
       "id": 5,
+      "name": "First Clean",
+      "link": "https://first-clean-omega.vercel.app/",
+      "image": "images/firstClean.PNG",
+      "description": "A laundry app where users can place laundry orders, check prices, and the admin approves or rejects the orders.",
+      "category": "Frameworks",
+      "technologies": [
+        {
+          "id": 1,
+          "name": "React",
+          "icon": "fa-brands fa-react react-icon",
+          "type": "icon"
+        },
+        {
+          "id": 2,
+          "name": "Tailwind",
+          "icon": "/images/tailwind-css-remove-bg.png",
+          "type": "image"
+        },
+        {
+          "id": 3,
+          "name": "Context API",
+          "icon": "fa-solid fa-sitemap",
+          "type": "icon"
+        }
+      ]
+    },
+    {
+      "id": 6,
       "name": "Tasks Pro",
       "link": "https://tasks-pro-five.vercel.app/",
       "image": "images/Tasks-Pro.PNG",
       "description": "A task management app with additional features like showing completed tasks, favorites, and other properties being developed to improve task management.",
-      "category": "FreamWork",
+      "category": "Frameworks",
       "technologies": [
-        { "id": 1, "name": "Nextjs" },
-        { "id": 2, "name": "tailwind" }
+        {
+          "id": 1,
+          "name": "Next.js",
+          "icon": "/images/nextjs-icon.png",
+          "type": "image"
+        },
+        {
+          "id": 2,
+          "name": "Tailwind",
+          "icon": "/images/tailwind-css-remove-bg.png",
+          "type": "image"
+        }
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "name": "Graduation Project - E-commerce",
       "link": "https://project-college-mu.vercel.app/",
       "image": "/images/project-college.PNG",
       "category": "Pure JavaScript",
       "description": "Graduation project for an e-commerce store with all modern store features such as chat between users and admin, cart, favorites, and responsive design built using JavaScript and Bootstrap.",
       "technologies": [
-        { "id": 1, "name": "HTML" },
-        { "id": 2, "name": "CSS" },
-        { "id": 3, "name": "JavaScript" },
-        { "id": 4, "name": "Bootstrap" }
+        {
+          "id": 1,
+          "name": "HTML",
+          "icon": "fa-brands fa-html5 html-icon",
+          "type": "icon"
+        },
+        {
+          "id": 2,
+          "name": "CSS",
+          "icon": "fa-brands fa-css3-alt css-icon",
+          "type": "icon"
+        },
+        {
+          "id": 3,
+          "name": "JavaScript",
+          "icon": "fa-brands fa-js js-icon",
+          "type": "icon"
+        },
+        {
+          "id": 4,
+          "name": "Bootstrap",
+          "icon": "fa-brands fa-bootstrap boot-icon",
+          "type": "icon"
+        }
       ]
     },
     {
-      "id": 6,
+      "id": 8,
       "name": "Game X O",
       "link": "https://mohamedhabib102.github.io/GameXO/",
       "image": "/images/item-5.PNG",
       "description": "The classic X O game developed using pure JavaScript. It features an interactive interface where players can play against each other on a grid.",
       "category": "Pure JavaScript",
       "technologies": [
-        { "id": 1, "name": "HTML" },
-        { "id": 2, "name": "CSS" },
-        { "id": 3, "name": "JavaScript" }
+        {
+          "id": 1,
+          "name": "HTML",
+          "icon": "fa-brands fa-html5 html-icon",
+          "type": "icon"
+        },
+        {
+          "id": 2,
+          "name": "CSS",
+          "icon": "fa-brands fa-css3-alt css-icon",
+          "type": "icon"
+        },
+        {
+          "id": 3,
+          "name": "JavaScript",
+          "icon": "fa-brands fa-js js-icon",
+          "type": "icon"
+        }
       ]
     },
     {
-      "id": 7,
+      "id": 9,
       "name": "Dashboard App",
       "link": "https://mohamedhabib102.github.io/potfolio/",
       "image": "/images/item-6.PNG",
       "category": "Pure JavaScript",
       "description": "A dashboard application that displays data and provides interactive interfaces using JavaScript. The app allows easy information management and provides a modern design for presentation.",
       "technologies": [
-        { "id": 1, "name": "HTML" },
-        { "id": 2, "name": "CSS" },
-        { "id": 3, "name": "JavaScript" }
+        {
+          "id": 1,
+          "name": "HTML",
+          "icon": "fa-brands fa-html5 html-icon",
+          "type": "icon"
+        },
+        {
+          "id": 2,
+          "name": "CSS",
+          "icon": "fa-brands fa-css3-alt css-icon",
+          "type": "icon"
+        },
+        {
+          "id": 3,
+          "name": "JavaScript",
+          "icon": "fa-brands fa-js js-icon",
+          "type": "icon"
+        }
       ]
     },
     {
-      "id": 9,
+      "id": 10,
       "name": "SATS App",
       "link": "https://sats-blush.vercel.app/",
       "image": "/images/sats.PNG",
       "category": "Pure JavaScript",
       "description": "A website for attendance registration that displays the day the attendance was recorded in the calendar. The app allows users to track their attendance history in a simple and efficient way.",
       "technologies": [
-        { "id": 1, "name": "HTML" },
-        { "id": 2, "name": "CSS" },
-        { "id": 3, "name": "JavaScript" }
+        {
+          "id": 1,
+          "name": "HTML",
+          "icon": "fa-brands fa-html5 html-icon",
+          "type": "icon"
+        },
+        {
+          "id": 2,
+          "name": "CSS",
+          "icon": "fa-brands fa-css3-alt css-icon",
+          "type": "icon"
+        },
+        {
+          "id": 3,
+          "name": "JavaScript",
+          "icon": "fa-brands fa-js js-icon",
+          "type": "icon"
+        }
       ]
     }
   ]
