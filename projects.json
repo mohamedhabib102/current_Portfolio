@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Noor Al-Huda",
-      "link": "https://nour-alhud.vercel.app/",
+      "link": "https://noor-alhuda-lyart.vercel.app/",
       "image": "images/nour-alhuda.png",
       "description": "Noor Al-Huda is a religious platform offering the Holy Qur’an, morning/evening duas, and Qur’an audio playback. It includes a Community section for publishing articles and an FAQ section for sharing questions and answers. Built with Next.js, TypeScript, and Tailwind CSS. ",
       "category": "Frameworks",
@@ -42,6 +42,68 @@
     },
     {
       "id": 2,
+      "name": "XIV Fashion Store",
+      "link": "https://fashion-store-gold-iota.vercel.app/",
+      "image": "images/xiv-fashion-store.png",
+      "description": "XIV Fashion Store A premium e-commerce platform built with Next.js 15 and TypeScript. It features a high-end minimalist design, dynamic product filtering, and smooth interactive animations using Framer Motion to deliver a luxury shopping experience.",
+      "category": "Frameworks",
+      "technologies": [
+        {
+          "id": 1,
+          "name": "Next.js",
+          "icon": "/images/nextjs-icon.png",
+          "type": "image"
+        },
+        {
+          "id": 2,
+          "name": "TypeScript",
+          "icon": "fa-solid fa-code",
+          "type": "icon"
+        },
+        {
+          "id": 3,
+          "name": "Tailwind",
+          "icon": "/images/tailwind-css-remove-bg.png",
+          "type": "image"
+        },
+        {
+          "id": 4,
+          "name": "Framer Motion",
+          "icon": "fa-brands fa-unity",
+          "type": "icon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "First Clean",
+      "link": "https://first-clean-omega.vercel.app/",
+      "image": "images/firstClean.PNG",
+      "description": "A laundry app where users can place laundry orders, check prices, and the admin approves or rejects the orders.",
+      "category": "Frameworks",
+      "technologies": [
+        {
+          "id": 1,
+          "name": "React",
+          "icon": "fa-brands fa-react react-icon",
+          "type": "icon"
+        },
+        {
+          "id": 2,
+          "name": "Tailwind",
+          "icon": "/images/tailwind-css-remove-bg.png",
+          "type": "image"
+        },
+        {
+          "id": 3,
+          "name": "Context API",
+          "icon": "fa-solid fa-sitemap",
+          "type": "icon"
+        }
+      ]
+    },
+    {
+      "id": 4,
       "name": "Publish House",
       "link": "https://dar-al-anqa-app.vercel.app/",
       "image": "images/publishe-house.png",
@@ -81,7 +143,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 5,
       "name": "Top Sport Gym",
       "link": "https://top-sport-gym.vercel.app/",
       "image": "images/gymHum.PNG",
@@ -115,7 +177,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 6,
       "name": "TeamZone",
       "link": "https://team-zone-psi.vercel.app/",
       "image": "images/teamZone.PNG",
@@ -145,56 +207,6 @@
           "name": "Framer Motion",
           "icon": "fa-brands fa-unity",
           "type": "icon"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "First Clean",
-      "link": "https://first-clean-omega.vercel.app/",
-      "image": "images/firstClean.PNG",
-      "description": "A laundry app where users can place laundry orders, check prices, and the admin approves or rejects the orders.",
-      "category": "Frameworks",
-      "technologies": [
-        {
-          "id": 1,
-          "name": "React",
-          "icon": "fa-brands fa-react react-icon",
-          "type": "icon"
-        },
-        {
-          "id": 2,
-          "name": "Tailwind",
-          "icon": "/images/tailwind-css-remove-bg.png",
-          "type": "image"
-        },
-        {
-          "id": 3,
-          "name": "Context API",
-          "icon": "fa-solid fa-sitemap",
-          "type": "icon"
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "name": "Tasks Pro",
-      "link": "https://tasks-pro-five.vercel.app/",
-      "image": "images/Tasks-Pro.PNG",
-      "description": "A task management app with additional features like showing completed tasks, favorites, and other properties being developed to improve task management.",
-      "category": "Frameworks",
-      "technologies": [
-        {
-          "id": 1,
-          "name": "Next.js",
-          "icon": "/images/nextjs-icon.png",
-          "type": "image"
-        },
-        {
-          "id": 2,
-          "name": "Tailwind",
-          "icon": "/images/tailwind-css-remove-bg.png",
-          "type": "image"
         }
       ]
     },
