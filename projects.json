@@ -68,6 +68,12 @@
         },
         {
           "id": 4,
+          "name": "NextAuth",
+          "icon": "fa-solid fa-user-shield",
+          "type": "icon"
+        },
+        {
+          "id": 5,
           "name": "Framer Motion",
           "icon": "fa-brands fa-unity",
           "type": "icon"
