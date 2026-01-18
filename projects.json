@@ -82,6 +82,40 @@
     },
     {
       "id": 3,
+      "name": "Installment Management System",
+      "link": "https://insattments-9dab.vercel.app/",
+      "image": "images/inst-app.PNG",
+      "description": "A specialized system for managing product installments. It allows users to create installment plans, track customer payments, and manage guarantor details. The dashboard provides comprehensive analytics including total customers, active installments, and remaining balances.",
+      "category": "Frameworks",
+      "technologies": [
+        {
+          "id": 1,
+          "name": "React",
+          "icon": "fa-brands fa-react react-icon",
+          "type": "icon"
+        },
+        {
+          "id": 2,
+          "name": "Tailwind",
+          "icon": "/images/tailwind-css-remove-bg.png",
+          "type": "image"
+        },
+        {
+          "id": 3,
+          "name": "Context API",
+          "icon": "fa-solid fa-sitemap",
+          "type": "icon"
+        },
+        {
+          "id": 4,
+          "name": "Framer Motion",
+          "icon": "fa-brands fa-unity",
+          "type": "icon"
+        }
+      ]
+    },
+    {
+      "id": 4,
       "name": "First Clean",
       "link": "https://first-clean-omega.vercel.app/",
       "image": "images/firstClean.PNG",
@@ -109,7 +143,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Publish House",
       "link": "https://dar-al-anqa-app.vercel.app/",
       "image": "images/publishe-house.png",
@@ -149,7 +183,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Top Sport Gym",
       "link": "https://top-sport-gym.vercel.app/",
       "image": "images/gymHum.PNG",
@@ -183,7 +217,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "TeamZone",
       "link": "https://team-zone-psi.vercel.app/",
       "image": "images/teamZone.PNG",
@@ -217,7 +251,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "Game X O",
       "link": "https://mohamedhabib102.github.io/GameXO/",
       "image": "/images/item-5.PNG",
@@ -245,7 +279,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "Dashboard App",
       "link": "https://mohamedhabib102.github.io/potfolio/",
       "image": "/images/item-6.PNG",
@@ -273,7 +307,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 10,
       "name": "SATS App",
       "link": "https://sats-blush.vercel.app/",
       "image": "/images/sats.PNG",
