@@ -218,40 +218,6 @@
     },
     {
       "id": 7,
-      "name": "Graduation Project - E-commerce",
-      "link": "https://project-college-mu.vercel.app/",
-      "image": "/images/project-college.PNG",
-      "category": "Pure JavaScript",
-      "description": "Graduation project for an e-commerce store with all modern store features such as chat between users and admin, cart, favorites, and responsive design built using JavaScript and Bootstrap.",
-      "technologies": [
-        {
-          "id": 1,
-          "name": "HTML",
-          "icon": "fa-brands fa-html5 html-icon",
-          "type": "icon"
-        },
-        {
-          "id": 2,
-          "name": "CSS",
-          "icon": "fa-brands fa-css3-alt css-icon",
-          "type": "icon"
-        },
-        {
-          "id": 3,
-          "name": "JavaScript",
-          "icon": "fa-brands fa-js js-icon",
-          "type": "icon"
-        },
-        {
-          "id": 4,
-          "name": "Bootstrap",
-          "icon": "fa-brands fa-bootstrap boot-icon",
-          "type": "icon"
-        }
-      ]
-    },
-    {
-      "id": 8,
       "name": "Game X O",
       "link": "https://mohamedhabib102.github.io/GameXO/",
       "image": "/images/item-5.PNG",
@@ -279,7 +245,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "name": "Dashboard App",
       "link": "https://mohamedhabib102.github.io/potfolio/",
       "image": "/images/item-6.PNG",
@@ -307,7 +273,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "name": "SATS App",
       "link": "https://sats-blush.vercel.app/",
       "image": "/images/sats.PNG",
