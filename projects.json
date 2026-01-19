@@ -281,7 +281,7 @@
     {
       "id": 9,
       "name": "Dashboard App",
-      "link": "https://mohamedhabib102.github.io/potfolio/",
+      "link": "https://mohamedhabib102.github.io/dashboard/",
       "image": "/images/item-6.PNG",
       "category": "Pure JavaScript",
       "description": "A dashboard application that displays data and provides interactive interfaces using JavaScript. The app allows easy information management and provides a modern design for presentation.",
