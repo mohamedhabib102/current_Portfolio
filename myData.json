@@ -2,38 +2,32 @@
     "profile":{
         "fullName": "Mohamed Habib Mowafy",
         "date": "Novamber, 20, 2002",
-        "aboutMe": "I’m Mohammad Habib, a Front-End Developer with over two years of experience using React, Next.js, and TypeScript, Tailwind CSS with a strong focus on building high-quality, responsive user interfaces and exceptional UI/UX.",
+        "aboutMe": "I’m Mohammad Habib, a Front-End Developer with 2+ years of experience in React, Next.js, TypeScript, and Tailwind CSS. I specialize in building high-quality, responsive user interfaces with a strong focus on exceptional UI/UX and performance.",
         "job": "Front End Developer",
         "website": "m-habib-portfolio.vercel.app/",
         "email": "mhabib7000880@gmail.com",
-        "profilText": "I’m Mohammad Habib, a dedicated Front-End Developer with 2+ years of experience in the industry, specialized in building modern, scalable, and visually stunning web applications.", 
-        "skillsText": "I specialize in HTML5, CSS3, and JavaScript, leveraging the power of React, Next.js, TypeScript, and Tailwind CSS to create seamless and interactive digital experiences.",
-        "skills": [
-            "HTML & HTML5", 
-            "CSS & CSS3", 
-            "Bootstrap", 
-            "Tailwind css", 
-            "JavaScript", 
-            "Reactjs & Vite",
-            "TypeScript",  
-            "Nextjs",  
-            "nextAuth.js",  
-            "Redux & Redux Toolkit",
-            "Zustand & Recoil",
-            "Git & Gihub"
-        ],
-        "scoors": [
-            90, 
-            80, 
-            85, 
-            75, 
-            85, 
-            70, 
-            70, 
-            70, 
-            80, 
-            60,
-            65
-        ]
+"skills": [
+    "HTML5",
+    "CSS3",
+    "Bootstrap",
+    "Tailwind CSS",
+    "Responsive Design",
+    "Elegant UI",
+    "JavaScript (Modern ES6+ features)",
+    "TypeScript",
+    "React.js",
+    "Next.js",
+    "Vite",
+    "React Query",
+    "NextAuth.js",
+    "Redux & Redux Toolkit",
+    "Zustand",
+    "Recoil",
+    "Lazy Loading",
+    "API Caching",
+    "Server-Side Rendering (SSR)",
+    "Static Site Generation (SSG)",
+    "Git & GitHub"
+]
     }
 }

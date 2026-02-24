@@ -2,10 +2,10 @@
   "projects": [
     {
       "id": 1,
-      "name": "Noor Al-Huda",
+      "name": "Noor Alhuda",
       "link": "https://noor-alhuda-lyart.vercel.app/",
       "image": "images/nour-alhuda.png",
-      "description": "Noor Al-Huda is a religious platform offering the Holy Qur’an, morning/evening duas, and Qur’an audio playback. It includes a Community section for publishing articles and an FAQ section for sharing questions and answers. Built with Next.js, TypeScript, and Tailwind CSS. ",
+      "description": "Religious platform built with Next.js, TypeScript, and Tailwind CSS, offering the Holy Qur’an, morning/evening duas, and Qur’an audio streaming. Implemented Google sign-in with NextAuth, a Community section for publishing articles with internal and external sharing to promote Islamic knowledge, and an FAQ section supporting user questions.",
       "category": "Frameworks",
       "technologies": [
         {
@@ -45,7 +45,7 @@
       "name": "XIV Fashion Store",
       "link": "https://fashion-store-gold-iota.vercel.app/",
       "image": "images/xiv-fashion-store.png",
-      "description": "XIV Fashion Store A premium e-commerce platform built with Next.js 15 and TypeScript. It features a high-end minimalist design, dynamic product filtering, and smooth interactive animations using Framer Motion to deliver a luxury shopping experience.",
+      "description": "Premium e-commerce platform built with Next.js 15 and TypeScript, featuring a minimalist design and interactive animations with Framer Motion. Implemented API routes with MongoDB for authentication and used NextAuth for Google sign-in. Built dynamic product filtering for a seamless luxury shopping experience.",
       "category": "Frameworks",
       "technologies": [
         {
@@ -119,7 +119,7 @@
       "name": "First Clean",
       "link": "https://first-clean-omega.vercel.app/",
       "image": "images/firstClean.PNG",
-      "description": "A laundry app where users can place laundry orders, check prices, and the admin approves or rejects the orders.",
+      "description": "Bilingual (Arabic/English) web app for a cleaning business, built with React.js, Tailwind CSS, Axios, i18n, and Features a clean, elegant UI, allowing clients to browse services, place and track orders, and an admin dashboard for managing services and requests with authentication and dynamic language switching",
       "category": "Frameworks",
       "technologies": [
         {
@@ -246,90 +246,6 @@
           "id": 4,
           "name": "Framer Motion",
           "icon": "fa-brands fa-unity",
-          "type": "icon"
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "name": "Game X O",
-      "link": "https://mohamedhabib102.github.io/GameXO/",
-      "image": "/images/item-5.PNG",
-      "description": "The classic X O game developed using pure JavaScript. It features an interactive interface where players can play against each other on a grid.",
-      "category": "Pure JavaScript",
-      "technologies": [
-        {
-          "id": 1,
-          "name": "HTML",
-          "icon": "fa-brands fa-html5 html-icon",
-          "type": "icon"
-        },
-        {
-          "id": 2,
-          "name": "CSS",
-          "icon": "fa-brands fa-css3-alt css-icon",
-          "type": "icon"
-        },
-        {
-          "id": 3,
-          "name": "JavaScript",
-          "icon": "fa-brands fa-js js-icon",
-          "type": "icon"
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "name": "Dashboard App",
-      "link": "https://mohamedhabib102.github.io/dashboard/",
-      "image": "/images/item-6.PNG",
-      "category": "Pure JavaScript",
-      "description": "A dashboard application that displays data and provides interactive interfaces using JavaScript. The app allows easy information management and provides a modern design for presentation.",
-      "technologies": [
-        {
-          "id": 1,
-          "name": "HTML",
-          "icon": "fa-brands fa-html5 html-icon",
-          "type": "icon"
-        },
-        {
-          "id": 2,
-          "name": "CSS",
-          "icon": "fa-brands fa-css3-alt css-icon",
-          "type": "icon"
-        },
-        {
-          "id": 3,
-          "name": "JavaScript",
-          "icon": "fa-brands fa-js js-icon",
-          "type": "icon"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "name": "SATS App",
-      "link": "https://sats-blush.vercel.app/",
-      "image": "/images/sats.PNG",
-      "category": "Pure JavaScript",
-      "description": "A website for attendance registration that displays the day the attendance was recorded in the calendar. The app allows users to track their attendance history in a simple and efficient way.",
-      "technologies": [
-        {
-          "id": 1,
-          "name": "HTML",
-          "icon": "fa-brands fa-html5 html-icon",
-          "type": "icon"
-        },
-        {
-          "id": 2,
-          "name": "CSS",
-          "icon": "fa-brands fa-css3-alt css-icon",
-          "type": "icon"
-        },
-        {
-          "id": 3,
-          "name": "JavaScript",
-          "icon": "fa-brands fa-js js-icon",
           "type": "icon"
         }
       ]
